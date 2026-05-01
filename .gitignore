@@ -24,3 +24,8 @@ server/rust-server/certs/
 *.id1
 *.nam
 *.til
+*.dll 
+*.bin 
+*.pdb 
+*.lib 
+nl.bin 
